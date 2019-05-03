@@ -1,2 +1,1 @@
-# username.github.io
-Directory of Squishmallows
+List of Squishmallow Characters
