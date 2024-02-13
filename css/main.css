@@ -1493,7 +1493,7 @@ header .logo a {
 #about {
 	background: #FFFFFF;
 	padding-top: 12rem;
-	padding-bottom: 15rem;
+	padding-bottom: 2rem;
 }
 #about .section-intro {
 	margin-bottom: 3rem;
@@ -1623,7 +1623,7 @@ header .logo a {
  */
 #resume {
 	padding-top: 12rem;
-	padding-bottom: 12rem;
+	padding-bottom: 5rem;
 }
 
 #resume .resume-header {
@@ -2426,8 +2426,17 @@ header .logo a {
 	font-size: 4.2rem;
 	color: #FFFFFF;
 }
+.contact-info .icon:hover i {
+	font-size: 4.2rem;
+	color: #FF0077;
+}
+
 .contact-info h5 {
 	color: #fff;
+}
+
+.contact-info h5:hover {
+	color: #FF0077;
 }
 
 .contact-info a:hover, .contact-info a:focus {
