@@ -1,0 +1,1 @@
+var e=`/assets/kristy-portrait-CED4NYqw.png`;export{e as t};
