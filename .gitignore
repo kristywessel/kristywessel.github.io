@@ -1,0 +1,9 @@
+node_modules/
+.output/
+.vite/
+.tanstack/
+dist/
+build/
+.DS_Store
+*.log
+bun.lock
